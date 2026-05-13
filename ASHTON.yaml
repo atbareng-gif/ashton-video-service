@@ -7,7 +7,7 @@ ShortDescription: Video and VCD media tool
 Installers:
   - Architecture: x64
     InstallerType: exe
-    InstallerUrl: https://yourdomain.com/WatchAnythingSetup.exe
+    InstallerUrl: https://ashtonco.com/WatchAnythingSetup.exe
     InstallerSha256: REPLACE_WITH_SHA256
 ManifestType: singleton
 ManifestVersion: 1.6.0
