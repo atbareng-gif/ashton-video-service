@@ -8,6 +8,6 @@ Installers:
   - Architecture: x64
     InstallerType: exe
     InstallerUrl: https://ashtonco.com/WatchAnythingSetup.exe
-    InstallerSha256: REPLACE_WITH_SHA256
+    InstallerSha256: 3479425989652752678E371
 ManifestType: singleton
 ManifestVersion: 1.6.0
