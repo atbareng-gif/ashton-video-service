@@ -1,0 +1,13 @@
+PackageIdentifier: Ashton.WatchAnything
+PackageVersion: 1.5
+PackageName: WatchAnything
+Publisher: Ashton
+License: GPL-3.0
+ShortDescription: Video and VCD media tool
+Installers:
+  - Architecture: x64
+    InstallerType: exe
+    InstallerUrl: https://yourdomain.com/WatchAnythingSetup.exe
+    InstallerSha256: REPLACE_WITH_SHA256
+ManifestType: singleton
+ManifestVersion: 1.6.0
